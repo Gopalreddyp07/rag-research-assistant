@@ -61,7 +61,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ---
 
-## ▶️ How to Run the Solution
+##  How to Run the Solution
 
 Execute the RAG pipeline using the following command:
 
@@ -82,7 +82,7 @@ python rag_pipeline.py
 
 ---
 
-## 💬 Usage
+##  Usage
 
 * The application runs in the **command-line interface (CLI)**
 * Enter technical questions related to the research paper
@@ -100,7 +100,7 @@ I cannot answer this based on the provided context.
 
 ---
 
-## ✅ Notes
+##  Notes
 
 * The system uses **only the provided PDF** as its knowledge source
 * No external knowledge is used
