@@ -1,0 +1,9 @@
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-core==0.3.80
+langchain-openai==0.3.35
+tiktoken
+faiss-cpu
+langchain-openai
+dotenv
+pypdf>=4.2.0
